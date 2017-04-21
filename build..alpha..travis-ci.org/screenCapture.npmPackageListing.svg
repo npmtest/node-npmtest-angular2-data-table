@@ -1,0 +1,536 @@
+<svg height="8526" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="8526" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-21 10:08:29 +0000  5823655 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-21 10:08:29 +0000       51 bytes  Dockerfile</tspan>
+<tspan x="10" y="58">  2.  2017-04-21 10:08:29 +0000     1091 bytes  LICENSE</tspan>
+<tspan x="10" y="74">  3.  2017-04-21 10:08:29 +0000     3119 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-21 10:08:29 +0000     2996 bytes  assets/app.css</tspan>
+<tspan x="10" y="106">  5.  2017-04-21 10:08:29 +0000  2070332 bytes  assets/data/100k.json</tspan>
+<tspan x="10" y="122">  6.  2017-04-21 10:08:29 +0000    10289 bytes  assets/data/company.json</tspan>
+<tspan x="10" y="138">  7.  2017-04-21 10:08:29 +0000     2524 bytes  assets/fonts/data-table.eot</tspan>
+<tspan x="10" y="154">  8.  2017-04-21 10:08:29 +0000     2666 bytes  assets/fonts/data-table.svg</tspan>
+<tspan x="10" y="170">  9.  2017-04-21 10:08:29 +0000     2352 bytes  assets/fonts/data-table.ttf</tspan>
+<tspan x="10" y="186"> 10.  2017-04-21 10:08:29 +0000     1628 bytes  assets/fonts/data-table.woff</tspan>
+<tspan x="10" y="202"> 11.  2017-04-21 10:08:29 +0000     8436 bytes  assets/icons-reference.html</tspan>
+<tspan x="10" y="218"> 12.  2017-04-21 10:08:29 +0000     1707 bytes  assets/icons.css</tspan>
+<tspan x="10" y="234"> 13.  2017-04-21 10:08:29 +0000      772 bytes  book.json</tspan>
+<tspan x="10" y="250"> 14.  2017-04-21 10:08:29 +0000      331 bytes  config/deploy.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-21 10:08:29 +0000      517 bytes  config/helpers.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-21 10:08:29 +0000     1128 bytes  config/karma.conf.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-21 10:08:29 +0000      518 bytes  config/replace.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-21 10:08:29 +0000     2087 bytes  config/spec-bundle.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-21 10:08:29 +0000     1228 bytes  config/webpack.common.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-21 10:08:29 +0000     2358 bytes  config/webpack.dev.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-21 10:08:29 +0000     2702 bytes  config/webpack.package.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-21 10:08:29 +0000     2085 bytes  config/webpack.prod.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-21 10:08:29 +0000     1533 bytes  config/webpack.test.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-21 10:08:29 +0000     6480 bytes  demo/app.component.ts</tspan>
+<tspan x="10" y="426"> 25.  2017-04-21 10:08:29 +0000      964 bytes  demo/basic/basic-auto.ts</tspan>
+<tspan x="10" y="442"> 26.  2017-04-21 10:08:29 +0000      818 bytes  demo/basic/basic-fixed.ts</tspan>
+<tspan x="10" y="458"> 27.  2017-04-21 10:08:29 +0000     1665 bytes  demo/basic/contextmenu.ts</tspan>
+<tspan x="10" y="474"> 28.  2017-04-21 10:08:29 +0000     1400 bytes  demo/basic/filter.ts</tspan>
+<tspan x="10" y="490"> 29.  2017-04-21 10:08:29 +0000     1280 bytes  demo/basic/fullscreen.ts</tspan>
+<tspan x="10" y="506"> 30.  2017-04-21 10:08:29 +0000     2445 bytes  demo/basic/inline.ts</tspan>
+<tspan x="10" y="522"> 31.  2017-04-21 10:08:29 +0000     2261 bytes  demo/basic/live.ts</tspan>
+<tspan x="10" y="538"> 32.  2017-04-21 10:08:29 +0000     1073 bytes  demo/basic/multiple.ts</tspan>
+<tspan x="10" y="554"> 33.  2017-04-21 10:08:29 +0000     3303 bytes  demo/basic/row-detail.ts</tspan>
+<tspan x="10" y="570"> 34.  2017-04-21 10:08:29 +0000     1151 bytes  demo/basic/rx.ts</tspan>
+<tspan x="10" y="586"> 35.  2017-04-21 10:08:29 +0000     1193 bytes  demo/basic/scrolling.ts</tspan>
+<tspan x="10" y="602"> 36.  2017-04-21 10:08:29 +0000     2188 bytes  demo/basic/tabs.ts</tspan>
+<tspan x="10" y="618"> 37.  2017-04-21 10:08:29 +0000     1516 bytes  demo/basic/virtual.ts</tspan>
+<tspan x="10" y="634"> 38.  2017-04-21 10:08:29 +0000      354 bytes  demo/bootstrap.ts</tspan>
+<tspan x="10" y="650"> 39.  2017-04-21 10:08:29 +0000     1352 bytes  demo/columns/column-flex.ts</tspan>
+<tspan x="10" y="666"> 40.  2017-04-21 10:08:29 +0000     1358 bytes  demo/columns/column-force.ts</tspan>
+<tspan x="10" y="682"> 41.  2017-04-21 10:08:29 +0000     1350 bytes  demo/columns/column-standard.ts</tspan>
+<tspan x="10" y="698"> 42.  2017-04-21 10:08:29 +0000     1644 bytes  demo/columns/column-toggle.ts</tspan>
+<tspan x="10" y="714"> 43.  2017-04-21 10:08:29 +0000     1381 bytes  demo/columns/pinning.ts</tspan>
+<tspan x="10" y="730"> 44.  2017-04-21 10:08:29 +0000     2688 bytes  demo/index.ejs</tspan>
+<tspan x="10" y="746"> 45.  2017-04-21 10:08:29 +0000     3672 bytes  demo/module.ts</tspan>
+<tspan x="10" y="762"> 46.  2017-04-21 10:08:29 +0000      795 bytes  demo/paging/paging-client.ts</tspan>
+<tspan x="10" y="778"> 47.  2017-04-21 10:08:29 +0000     1422 bytes  demo/paging/paging-server.ts</tspan>
+<tspan x="10" y="794"> 48.  2017-04-21 10:08:29 +0000      598 bytes  demo/polyfills.ts</tspan>
+<tspan x="10" y="810"> 49.  2017-04-21 10:08:29 +0000     1161 bytes  demo/selection/selection-cell.ts</tspan>
+<tspan x="10" y="826"> 50.  2017-04-21 10:08:29 +0000     2435 bytes  demo/selection/selection-chkbox.ts</tspan>
+<tspan x="10" y="842"> 51.  2017-04-21 10:08:29 +0000     1793 bytes  demo/selection/selection-disabled.ts</tspan>
+<tspan x="10" y="858"> 52.  2017-04-21 10:08:29 +0000     1596 bytes  demo/selection/selection-multi.ts</tspan>
+<tspan x="10" y="874"> 53.  2017-04-21 10:08:29 +0000     1689 bytes  demo/selection/selection-single.ts</tspan>
+<tspan x="10" y="890"> 54.  2017-04-21 10:08:29 +0000      902 bytes  demo/sorting/sorting-client.ts</tspan>
+<tspan x="10" y="906"> 55.  2017-04-21 10:08:29 +0000     1224 bytes  demo/sorting/sorting-comparator.ts</tspan>
+<tspan x="10" y="922"> 56.  2017-04-21 10:08:29 +0000     1752 bytes  demo/sorting/sorting-server.ts</tspan>
+<tspan x="10" y="938"> 57.  2017-04-21 10:08:29 +0000     1729 bytes  demo/templates/template-dom.ts</tspan>
+<tspan x="10" y="954"> 58.  2017-04-21 10:08:29 +0000     1560 bytes  demo/templates/template-obj.ts</tspan>
+<tspan x="10" y="970"> 59.  2017-04-21 10:08:29 +0000      881 bytes  docs/README.md</tspan>
+<tspan x="10" y="986"> 60.  2017-04-21 10:08:29 +0000      946 bytes  docs/SUMMARY.md</tspan>
+<tspan x="10" y="1002"> 61.  2017-04-21 10:08:29 +0000      142 bytes  docs/api/column-internals.md</tspan>
+<tspan x="10" y="1018"> 62.  2017-04-21 10:08:29 +0000     1392 bytes  docs/api/column-modes.md</tspan>
+<tspan x="10" y="1034"> 63.  2017-04-21 10:08:29 +0000     1925 bytes  docs/api/column-options.md</tspan>
+<tspan x="10" y="1050"> 64.  2017-04-21 10:08:29 +0000      325 bytes  docs/api/table-fns.md</tspan>
+<tspan x="10" y="1066"> 65.  2017-04-21 10:08:29 +0000     3260 bytes  docs/api/table-inputs.md</tspan>
+<tspan x="10" y="1082"> 66.  2017-04-21 10:08:29 +0000      401 bytes  docs/api/table-internals.md</tspan>
+<tspan x="10" y="1098"> 67.  2017-04-21 10:08:29 +0000      955 bytes  docs/api/table-outputs.md</tspan>
+<tspan x="10" y="1114"> 68.  2017-04-21 10:08:29 +0000     7887 bytes  docs/changelog.md</tspan>
+<tspan x="10" y="1130"> 69.  2017-04-21 10:08:29 +0000      665 bytes  docs/contributing/building.md</tspan>
+<tspan x="10" y="1146"> 70.  2017-04-21 10:08:29 +0000      446 bytes  docs/contributing/community.md</tspan>
+<tspan x="10" y="1162"> 71.  2017-04-21 10:08:29 +0000      492 bytes  docs/contributing/credits.md</tspan>
+<tspan x="10" y="1178"> 72.  2017-04-21 10:08:29 +0000     2455 bytes  docs/contributing/guidelines.md</tspan>
+<tspan x="10" y="1194"> 73.  2017-04-21 10:08:29 +0000     1124 bytes  docs/introduction/architecture.md</tspan>
+<tspan x="10" y="1210"> 74.  2017-04-21 10:08:29 +0000     1588 bytes  docs/introduction/features.md</tspan>
+<tspan x="10" y="1226"> 75.  2017-04-21 10:08:29 +0000     1281 bytes  docs/introduction/getting-started.md</tspan>
+<tspan x="10" y="1242"> 76.  2017-04-21 10:08:29 +0000      779 bytes  docs/introduction/installing.md</tspan>
+<tspan x="10" y="1258"> 77.  2017-04-21 10:08:29 +0000     1286 bytes  docs/introduction/themes.md</tspan>
+<tspan x="10" y="1274"> 78.  2017-04-21 10:08:29 +0000       52 bytes  karma.conf.js</tspan>
+<tspan x="10" y="1290"> 79.  2017-04-21 10:08:29 +0000     4273 bytes  package.json</tspan>
+<tspan x="10" y="1306"> 80.  2017-04-21 10:08:29 +0000     2996 bytes  release/assets/app.css</tspan>
+<tspan x="10" y="1322"> 81.  2017-04-21 10:08:29 +0000  2070332 bytes  release/assets/data/100k.json</tspan>
+<tspan x="10" y="1338"> 82.  2017-04-21 10:08:29 +0000    10289 bytes  release/assets/data/company.json</tspan>
+<tspan x="10" y="1354"> 83.  2017-04-21 10:08:29 +0000     2524 bytes  release/assets/fonts/data-table.eot</tspan>
+<tspan x="10" y="1370"> 84.  2017-04-21 10:08:29 +0000     2666 bytes  release/assets/fonts/data-table.svg</tspan>
+<tspan x="10" y="1386"> 85.  2017-04-21 10:08:29 +0000     2352 bytes  release/assets/fonts/data-table.ttf</tspan>
+<tspan x="10" y="1402"> 86.  2017-04-21 10:08:29 +0000     1628 bytes  release/assets/fonts/data-table.woff</tspan>
+<tspan x="10" y="1418"> 87.  2017-04-21 10:08:29 +0000     8436 bytes  release/assets/icons-reference.html</tspan>
+<tspan x="10" y="1434"> 88.  2017-04-21 10:08:29 +0000     1707 bytes  release/assets/icons.css</tspan>
+<tspan x="10" y="1450"> 89.  2017-04-21 10:08:29 +0000      857 bytes  release/components/body/body-cell.component.d.ts</tspan>
+<tspan x="10" y="1466"> 90.  2017-04-21 10:08:29 +0000     7140 bytes  release/components/body/body-cell.component.js</tspan>
+<tspan x="10" y="1482"> 91.  2017-04-21 10:08:29 +0000     5063 bytes  release/components/body/body-cell.component.js.m\</tspan>
+<tspan x="10" y="1498">ap</tspan>
+<tspan x="10" y="1514"> 92.  2017-04-21 10:08:29 +0000     8443 bytes  release/components/body/body-cell.component.meta\</tspan>
+<tspan x="10" y="1530">data.json</tspan>
+<tspan x="10" y="1546"> 93.  2017-04-21 10:08:29 +0000    22798 bytes  release/components/body/body-cell.component.ngfa\</tspan>
+<tspan x="10" y="1562">ctory.ts</tspan>
+<tspan x="10" y="1578"> 94.  2017-04-21 10:08:29 +0000     1263 bytes  release/components/body/body-cell.component.ngsu\</tspan>
+<tspan x="10" y="1594">mmary.json</tspan>
+<tspan x="10" y="1610"> 95.  2017-04-21 10:08:29 +0000      324 bytes  release/components/body/body-row-wrapper.compone\</tspan>
+<tspan x="10" y="1626">nt.d.ts</tspan>
+<tspan x="10" y="1642"> 96.  2017-04-21 10:08:29 +0000     1732 bytes  release/components/body/body-row-wrapper.compone\</tspan>
+<tspan x="10" y="1658">nt.js</tspan>
+<tspan x="10" y="1674"> 97.  2017-04-21 10:08:29 +0000     1124 bytes  release/components/body/body-row-wrapper.compone\</tspan>
+<tspan x="10" y="1690">nt.js.map</tspan>
+<tspan x="10" y="1706"> 98.  2017-04-21 10:08:29 +0000     3365 bytes  release/components/body/body-row-wrapper.compone\</tspan>
+<tspan x="10" y="1722">nt.metadata.json</tspan>
+<tspan x="10" y="1738"> 99.  2017-04-21 10:08:29 +0000    16390 bytes  release/components/body/body-row-wrapper.compone\</tspan>
+<tspan x="10" y="1754">nt.ngfactory.ts</tspan>
+<tspan x="10" y="1770">100.  2017-04-21 10:08:29 +0000      761 bytes  release/components/body/body-row-wrapper.compone\</tspan>
+<tspan x="10" y="1786">nt.ngsummary.json</tspan>
+<tspan x="10" y="1802">101.  2017-04-21 10:08:29 +0000      742 bytes  release/components/body/body-row.component.d.ts</tspan>
+<tspan x="10" y="1818">102.  2017-04-21 10:08:29 +0000     5378 bytes  release/components/body/body-row.component.js</tspan>
+<tspan x="10" y="1834">103.  2017-04-21 10:08:29 +0000     3780 bytes  release/components/body/body-row.component.js.ma\</tspan>
+<tspan x="10" y="1850">p</tspan>
+<tspan x="10" y="1866">104.  2017-04-21 10:08:29 +0000     6361 bytes  release/components/body/body-row.component.metad\</tspan>
+<tspan x="10" y="1882">ata.json</tspan>
+<tspan x="10" y="1898">105.  2017-04-21 10:08:29 +0000    19569 bytes  release/components/body/body-row.component.ngfac\</tspan>
+<tspan x="10" y="1914">tory.ts</tspan>
+<tspan x="10" y="1930">106.  2017-04-21 10:08:29 +0000     1146 bytes  release/components/body/body-row.component.ngsum\</tspan>
+<tspan x="10" y="1946">mary.json</tspan>
+<tspan x="10" y="1962">107.  2017-04-21 10:08:29 +0000     5509 bytes  release/components/body/body.component.d.ts</tspan>
+<tspan x="10" y="1978">108.  2017-04-21 10:08:29 +0000    18068 bytes  release/components/body/body.component.js</tspan>
+<tspan x="10" y="1994">109.  2017-04-21 10:08:29 +0000     9896 bytes  release/components/body/body.component.js.map</tspan>
+<tspan x="10" y="2010">110.  2017-04-21 10:08:29 +0000    14641 bytes  release/components/body/body.component.metadata.\</tspan>
+<tspan x="10" y="2026">json</tspan>
+<tspan x="10" y="2042">111.  2017-04-21 10:08:29 +0000    40480 bytes  release/components/body/body.component.ngfactory\</tspan>
+<tspan x="10" y="2058">.ts</tspan>
+<tspan x="10" y="2074">112.  2017-04-21 10:08:29 +0000     1260 bytes  release/components/body/body.component.ngsummary\</tspan>
+<tspan x="10" y="2090">.json</tspan>
+<tspan x="10" y="2106">113.  2017-04-21 10:08:29 +0000      276 bytes  release/components/body/index.d.ts</tspan>
+<tspan x="10" y="2122">114.  2017-04-21 10:08:29 +0000      455 bytes  release/components/body/index.js</tspan>
+<tspan x="10" y="2138">115.  2017-04-21 10:08:29 +0000      329 bytes  release/components/body/index.js.map</tspan>
+<tspan x="10" y="2154">116.  2017-04-21 10:08:29 +0000      593 bytes  release/components/body/index.metadata.json</tspan>
+<tspan x="10" y="2170">117.  2017-04-21 10:08:29 +0000       46 bytes  release/components/body/progress-bar.component.d\</tspan>
+<tspan x="10" y="2186">.ts</tspan>
+<tspan x="10" y="2202">118.  2017-04-21 10:08:29 +0000      804 bytes  release/components/body/progress-bar.component.j\</tspan>
+<tspan x="10" y="2218">s</tspan>
+<tspan x="10" y="2234">119.  2017-04-21 10:08:29 +0000      500 bytes  release/components/body/progress-bar.component.j\</tspan>
+<tspan x="10" y="2250">s.map</tspan>
+<tspan x="10" y="2266">120.  2017-04-21 10:08:29 +0000     1185 bytes  release/components/body/progress-bar.component.m\</tspan>
+<tspan x="10" y="2282">etadata.json</tspan>
+<tspan x="10" y="2298">121.  2017-04-21 10:08:29 +0000     5937 bytes  release/components/body/progress-bar.component.n\</tspan>
+<tspan x="10" y="2314">gfactory.ts</tspan>
+<tspan x="10" y="2330">122.  2017-04-21 10:08:29 +0000      533 bytes  release/components/body/progress-bar.component.n\</tspan>
+<tspan x="10" y="2346">gsummary.json</tspan>
+<tspan x="10" y="2362">123.  2017-04-21 10:08:29 +0000      701 bytes  release/components/body/scroller.component.d.ts</tspan>
+<tspan x="10" y="2378">124.  2017-04-21 10:08:29 +0000     2988 bytes  release/components/body/scroller.component.js</tspan>
+<tspan x="10" y="2394">125.  2017-04-21 10:08:29 +0000     2603 bytes  release/components/body/scroller.component.js.ma\</tspan>
+<tspan x="10" y="2410">p</tspan>
+<tspan x="10" y="2426">126.  2017-04-21 10:08:29 +0000     3643 bytes  release/components/body/scroller.component.metad\</tspan>
+<tspan x="10" y="2442">ata.json</tspan>
+<tspan x="10" y="2458">127.  2017-04-21 10:08:29 +0000     8126 bytes  release/components/body/scroller.component.ngfac\</tspan>
+<tspan x="10" y="2474">tory.ts</tspan>
+<tspan x="10" y="2490">128.  2017-04-21 10:08:29 +0000     1286 bytes  release/components/body/scroller.component.ngsum\</tspan>
+<tspan x="10" y="2506">mary.json</tspan>
+<tspan x="10" y="2522">129.  2017-04-21 10:08:29 +0000     1014 bytes  release/components/body/selection.component.d.ts</tspan>
+<tspan x="10" y="2538">130.  2017-04-21 10:08:29 +0000     6219 bytes  release/components/body/selection.component.js</tspan>
+<tspan x="10" y="2554">131.  2017-04-21 10:08:29 +0000     5658 bytes  release/components/body/selection.component.js.m\</tspan>
+<tspan x="10" y="2570">ap</tspan>
+<tspan x="10" y="2586">132.  2017-04-21 10:08:29 +0000     3843 bytes  release/components/body/selection.component.meta\</tspan>
+<tspan x="10" y="2602">data.json</tspan>
+<tspan x="10" y="2618">133.  2017-04-21 10:08:29 +0000     7964 bytes  release/components/body/selection.component.ngfa\</tspan>
+<tspan x="10" y="2634">ctory.ts</tspan>
+<tspan x="10" y="2650">134.  2017-04-21 10:08:29 +0000      735 bytes  release/components/body/selection.component.ngsu\</tspan>
+<tspan x="10" y="2666">mmary.json</tspan>
+<tspan x="10" y="2682">135.  2017-04-21 10:08:29 +0000      176 bytes  release/components/columns/column-cell.directive\</tspan>
+<tspan x="10" y="2698">.d.ts</tspan>
+<tspan x="10" y="2714">136.  2017-04-21 10:08:29 +0000      661 bytes  release/components/columns/column-cell.directive\</tspan>
+<tspan x="10" y="2730">.js</tspan>
+<tspan x="10" y="2746">137.  2017-04-21 10:08:29 +0000      510 bytes  release/components/columns/column-cell.directive\</tspan>
+<tspan x="10" y="2762">.js.map</tspan>
+<tspan x="10" y="2778">138.  2017-04-21 10:08:29 +0000      961 bytes  release/components/columns/column-cell.directive\</tspan>
+<tspan x="10" y="2794">.metadata.json</tspan>
+<tspan x="10" y="2810">139.  2017-04-21 10:08:29 +0000     1232 bytes  release/components/columns/column-cell.directive\</tspan>
+<tspan x="10" y="2826">.ngfactory.ts</tspan>
+<tspan x="10" y="2842">140.  2017-04-21 10:08:29 +0000      764 bytes  release/components/columns/column-cell.directive\</tspan>
+<tspan x="10" y="2858">.ngsummary.json</tspan>
+<tspan x="10" y="2874">141.  2017-04-21 10:08:29 +0000      178 bytes  release/components/columns/column-header.directi\</tspan>
+<tspan x="10" y="2890">ve.d.ts</tspan>
+<tspan x="10" y="2906">142.  2017-04-21 10:08:29 +0000      679 bytes  release/components/columns/column-header.directi\</tspan>
+<tspan x="10" y="2922">ve.js</tspan>
+<tspan x="10" y="2938">143.  2017-04-21 10:08:29 +0000      514 bytes  release/components/columns/column-header.directi\</tspan>
+<tspan x="10" y="2954">ve.js.map</tspan>
+<tspan x="10" y="2970">144.  2017-04-21 10:08:29 +0000      969 bytes  release/components/columns/column-header.directi\</tspan>
+<tspan x="10" y="2986">ve.metadata.json</tspan>
+<tspan x="10" y="3002">145.  2017-04-21 10:08:29 +0000     1240 bytes  release/components/columns/column-header.directi\</tspan>
+<tspan x="10" y="3018">ve.ngfactory.ts</tspan>
+<tspan x="10" y="3034">146.  2017-04-21 10:08:29 +0000      770 bytes  release/components/columns/column-header.directi\</tspan>
+<tspan x="10" y="3050">ve.ngsummary.json</tspan>
+<tspan x="10" y="3066">147.  2017-04-21 10:08:29 +0000      534 bytes  release/components/columns/column.directive.d.ts</tspan>
+<tspan x="10" y="3082">148.  2017-04-21 10:08:29 +0000     1840 bytes  release/components/columns/column.directive.js</tspan>
+<tspan x="10" y="3098">149.  2017-04-21 10:08:29 +0000     1630 bytes  release/components/columns/column.directive.js.m\</tspan>
+<tspan x="10" y="3114">ap</tspan>
+<tspan x="10" y="3130">150.  2017-04-21 10:08:29 +0000     7459 bytes  release/components/columns/column.directive.meta\</tspan>
+<tspan x="10" y="3146">data.json</tspan>
+<tspan x="10" y="3162">151.  2017-04-21 10:08:29 +0000     7700 bytes  release/components/columns/column.directive.ngfa\</tspan>
+<tspan x="10" y="3178">ctory.ts</tspan>
+<tspan x="10" y="3194">152.  2017-04-21 10:08:29 +0000     1826 bytes  release/components/columns/column.directive.ngsu\</tspan>
+<tspan x="10" y="3210">mmary.json</tspan>
+<tspan x="10" y="3226">153.  2017-04-21 10:08:29 +0000      120 bytes  release/components/columns/index.d.ts</tspan>
+<tspan x="10" y="3242">154.  2017-04-21 10:08:29 +0000      279 bytes  release/components/columns/index.js</tspan>
+<tspan x="10" y="3258">155.  2017-04-21 10:08:29 +0000      216 bytes  release/components/columns/index.js.map</tspan>
+<tspan x="10" y="3274">156.  2017-04-21 10:08:29 +0000      329 bytes  release/components/columns/index.metadata.json</tspan>
+<tspan x="10" y="3290">157.  2017-04-21 10:08:29 +0000    14543 bytes  release/components/datatable.component.d.ts</tspan>
+<tspan x="10" y="3306">158.  2017-04-21 10:08:29 +0000    32503 bytes  release/components/datatable.component.js</tspan>
+<tspan x="10" y="3322">159.  2017-04-21 10:08:29 +0000    14175 bytes  release/components/datatable.component.js.map</tspan>
+<tspan x="10" y="3338">160.  2017-04-21 10:08:29 +0000    24527 bytes  release/components/datatable.component.metadata.\</tspan>
+<tspan x="10" y="3354">json</tspan>
+<tspan x="10" y="3370">161.  2017-04-21 10:08:29 +0000    41299 bytes  release/components/datatable.component.ngfactory\</tspan>
+<tspan x="10" y="3386">.ts</tspan>
+<tspan x="10" y="3402">162.  2017-04-21 10:08:29 +0000     2940 bytes  release/components/datatable.component.ngsummary\</tspan>
+<tspan x="10" y="3418">.json</tspan>
+<tspan x="10" y="3434">163.  2017-04-21 10:08:29 +0000      427 bytes  release/components/footer/footer.component.d.ts</tspan>
+<tspan x="10" y="3450">164.  2017-04-21 10:08:29 +0000     2391 bytes  release/components/footer/footer.component.js</tspan>
+<tspan x="10" y="3466">165.  2017-04-21 10:08:29 +0000     1319 bytes  release/components/footer/footer.component.js.ma\</tspan>
+<tspan x="10" y="3482">p</tspan>
+<tspan x="10" y="3498">166.  2017-04-21 10:08:29 +0000     5309 bytes  release/components/footer/footer.component.metad\</tspan>
+<tspan x="10" y="3514">ata.json</tspan>
+<tspan x="10" y="3530">167.  2017-04-21 10:08:29 +0000    13741 bytes  release/components/footer/footer.component.ngfac\</tspan>
+<tspan x="10" y="3546">tory.ts</tspan>
+<tspan x="10" y="3562">168.  2017-04-21 10:08:29 +0000      849 bytes  release/components/footer/footer.component.ngsum\</tspan>
+<tspan x="10" y="3578">mary.json</tspan>
+<tspan x="10" y="3594">169.  2017-04-21 10:08:29 +0000       71 bytes  release/components/footer/index.d.ts</tspan>
+<tspan x="10" y="3610">170.  2017-04-21 10:08:29 +0000      225 bytes  release/components/footer/index.js</tspan>
+<tspan x="10" y="3626">171.  2017-04-21 10:08:29 +0000      186 bytes  release/components/footer/index.js.map</tspan>
+<tspan x="10" y="3642">172.  2017-04-21 10:08:29 +0000      243 bytes  release/components/footer/index.metadata.json</tspan>
+<tspan x="10" y="3658">173.  2017-04-21 10:08:29 +0000      580 bytes  release/components/footer/pager.component.d.ts</tspan>
+<tspan x="10" y="3674">174.  2017-04-21 10:08:29 +0000     5088 bytes  release/components/footer/pager.component.js</tspan>
+<tspan x="10" y="3690">175.  2017-04-21 10:08:29 +0000     3200 bytes  release/components/footer/pager.component.js.map</tspan>
+<tspan x="10" y="3706">176.  2017-04-21 10:08:29 +0000     6287 bytes  release/components/footer/pager.component.metada\</tspan>
+<tspan x="10" y="3722">ta.json</tspan>
+<tspan x="10" y="3738">177.  2017-04-21 10:08:29 +0000    21808 bytes  release/components/footer/pager.component.ngfact\</tspan>
+<tspan x="10" y="3754">ory.ts</tspan>
+<tspan x="10" y="3770">178.  2017-04-21 10:08:29 +0000      771 bytes  release/components/footer/pager.component.ngsumm\</tspan>
+<tspan x="10" y="3786">ary.json</tspan>
+<tspan x="10" y="3802">179.  2017-04-21 10:08:29 +0000      762 bytes  release/components/header/header-cell.component.\</tspan>
+<tspan x="10" y="3818">d.ts</tspan>
+<tspan x="10" y="3834">180.  2017-04-21 10:08:29 +0000     5501 bytes  release/components/header/header-cell.component.\</tspan>
+<tspan x="10" y="3850">js</tspan>
+<tspan x="10" y="3866">181.  2017-04-21 10:08:29 +0000     3540 bytes  release/components/header/header-cell.component.\</tspan>
+<tspan x="10" y="3882">js.map</tspan>
+<tspan x="10" y="3898">182.  2017-04-21 10:08:29 +0000     7937 bytes  release/components/header/header-cell.component.\</tspan>
+<tspan x="10" y="3914">metadata.json</tspan>
+<tspan x="10" y="3930">183.  2017-04-21 10:08:29 +0000    24600 bytes  release/components/header/header-cell.component.\</tspan>
+<tspan x="10" y="3946">ngfactory.ts</tspan>
+<tspan x="10" y="3962">184.  2017-04-21 10:08:29 +0000      977 bytes  release/components/header/header-cell.component.\</tspan>
+<tspan x="10" y="3978">ngsummary.json</tspan>
+<tspan x="10" y="3994">185.  2017-04-21 10:08:29 +0000     1100 bytes  release/components/header/header.component.d.ts</tspan>
+<tspan x="10" y="4010">186.  2017-04-21 10:08:29 +0000     6832 bytes  release/components/header/header.component.js</tspan>
+<tspan x="10" y="4026">187.  2017-04-21 10:08:29 +0000     4751 bytes  release/components/header/header.component.js.ma\</tspan>
+<tspan x="10" y="4042">p</tspan>
+<tspan x="10" y="4058">188.  2017-04-21 10:08:29 +0000     9089 bytes  release/components/header/header.component.metad\</tspan>
+<tspan x="10" y="4074">ata.json</tspan>
+<tspan x="10" y="4090">189.  2017-04-21 10:08:29 +0000    28471 bytes  release/components/header/header.component.ngfac\</tspan>
+<tspan x="10" y="4106">tory.ts</tspan>
+<tspan x="10" y="4122">190.  2017-04-21 10:08:29 +0000      992 bytes  release/components/header/header.component.ngsum\</tspan>
+<tspan x="10" y="4138">mary.json</tspan>
+<tspan x="10" y="4154">191.  2017-04-21 10:08:29 +0000       77 bytes  release/components/header/index.d.ts</tspan>
+<tspan x="10" y="4170">192.  2017-04-21 10:08:29 +0000      231 bytes  release/components/header/index.js</tspan>
+<tspan x="10" y="4186">193.  2017-04-21 10:08:29 +0000      186 bytes  release/components/header/index.js.map</tspan>
+<tspan x="10" y="4202">194.  2017-04-21 10:08:29 +0000      255 bytes  release/components/header/index.metadata.json</tspan>
+<tspan x="10" y="4218">195.  2017-04-21 10:08:29 +0000      172 bytes  release/components/index.d.ts</tspan>
+<tspan x="10" y="4234">196.  2017-04-21 10:08:29 +0000      346 bytes  release/components/index.js</tspan>
+<tspan x="10" y="4250">197.  2017-04-21 10:08:29 +0000      282 bytes  release/components/index.js.map</tspan>
+<tspan x="10" y="4266">198.  2017-04-21 10:08:29 +0000      397 bytes  release/components/index.metadata.json</tspan>
+<tspan x="10" y="4282">199.  2017-04-21 10:08:29 +0000       89 bytes  release/components/row-detail/index.d.ts</tspan>
+<tspan x="10" y="4298">200.  2017-04-21 10:08:29 +0000      243 bytes  release/components/row-detail/index.js</tspan>
+<tspan x="10" y="4314">201.  2017-04-21 10:08:29 +0000      190 bytes  release/components/row-detail/index.js.map</tspan>
+<tspan x="10" y="4330">202.  2017-04-21 10:08:29 +0000      279 bytes  release/components/row-detail/index.metadata.jso\</tspan>
+<tspan x="10" y="4346">n</tspan>
+<tspan x="10" y="4362">203.  2017-04-21 10:08:29 +0000      183 bytes  release/components/row-detail/row-detail-templat\</tspan>
+<tspan x="10" y="4378">e.directive.d.ts</tspan>
+<tspan x="10" y="4394">204.  2017-04-21 10:08:29 +0000      760 bytes  release/components/row-detail/row-detail-templat\</tspan>
+<tspan x="10" y="4410">e.directive.js</tspan>
+<tspan x="10" y="4426">205.  2017-04-21 10:08:29 +0000      532 bytes  release/components/row-detail/row-detail-templat\</tspan>
+<tspan x="10" y="4442">e.directive.js.map</tspan>
+<tspan x="10" y="4458">206.  2017-04-21 10:08:29 +0000      987 bytes  release/components/row-detail/row-detail-templat\</tspan>
+<tspan x="10" y="4474">e.directive.metadata.json</tspan>
+<tspan x="10" y="4490">207.  2017-04-21 10:08:29 +0000     1264 bytes  release/components/row-detail/row-detail-templat\</tspan>
+<tspan x="10" y="4506">e.directive.ngfactory.ts</tspan>
+<tspan x="10" y="4522">208.  2017-04-21 10:08:29 +0000      788 bytes  release/components/row-detail/row-detail-templat\</tspan>
+<tspan x="10" y="4538">e.directive.ngsummary.json</tspan>
+<tspan x="10" y="4554">209.  2017-04-21 10:08:29 +0000      180 bytes  release/components/row-detail/row-detail.directi\</tspan>
+<tspan x="10" y="4570">ve.d.ts</tspan>
+<tspan x="10" y="4586">210.  2017-04-21 10:08:29 +0000     1079 bytes  release/components/row-detail/row-detail.directi\</tspan>
+<tspan x="10" y="4602">ve.js</tspan>
+<tspan x="10" y="4618">211.  2017-04-21 10:08:29 +0000      692 bytes  release/components/row-detail/row-detail.directi\</tspan>
+<tspan x="10" y="4634">ve.js.map</tspan>
+<tspan x="10" y="4650">212.  2017-04-21 10:08:29 +0000     1329 bytes  release/components/row-detail/row-detail.directi\</tspan>
+<tspan x="10" y="4666">ve.metadata.json</tspan>
+<tspan x="10" y="4682">213.  2017-04-21 10:08:29 +0000     1223 bytes  release/components/row-detail/row-detail.directi\</tspan>
+<tspan x="10" y="4698">ve.ngfactory.ts</tspan>
+<tspan x="10" y="4714">214.  2017-04-21 10:08:29 +0000      951 bytes  release/components/row-detail/row-detail.directi\</tspan>
+<tspan x="10" y="4730">ve.ngsummary.json</tspan>
+<tspan x="10" y="4746">215.  2017-04-21 10:08:29 +0000     5587 bytes  release/datatable.css</tspan>
+<tspan x="10" y="4762">216.  2017-04-21 10:08:29 +0000       49 bytes  release/datatable.module.d.ts</tspan>
+<tspan x="10" y="4778">217.  2017-04-21 10:08:29 +0000     2614 bytes  release/datatable.module.js</tspan>
+<tspan x="10" y="4794">218.  2017-04-21 10:08:29 +0000      941 bytes  release/datatable.module.js.map</tspan>
+<tspan x="10" y="4810">219.  2017-04-21 10:08:29 +0000     5479 bytes  release/datatable.module.metadata.json</tspan>
+<tspan x="10" y="4826">220.  2017-04-21 10:08:29 +0000     1937 bytes  release/datatable.module.ngfactory.ts</tspan>
+<tspan x="10" y="4842">221.  2017-04-21 10:08:29 +0000     2914 bytes  release/datatable.module.ngsummary.json</tspan>
+<tspan x="10" y="4858">222.  2017-04-21 10:08:29 +0000      919 bytes  release/directives/draggable.directive.d.ts</tspan>
+<tspan x="10" y="4874">223.  2017-04-21 10:08:29 +0000     3440 bytes  release/directives/draggable.directive.js</tspan>
+<tspan x="10" y="4890">224.  2017-04-21 10:08:29 +0000     3077 bytes  release/directives/draggable.directive.js.map</tspan>
+<tspan x="10" y="4906">225.  2017-04-21 10:08:29 +0000     3621 bytes  release/directives/draggable.directive.metadata.\</tspan>
+<tspan x="10" y="4922">json</tspan>
+<tspan x="10" y="4938">226.  2017-04-21 10:08:29 +0000     3358 bytes  release/directives/draggable.directive.ngfactory\</tspan>
+<tspan x="10" y="4954">.ts</tspan>
+<tspan x="10" y="4970">227.  2017-04-21 10:08:29 +0000      916 bytes  release/directives/draggable.directive.ngsummary\</tspan>
+<tspan x="10" y="4986">.json</tspan>
+<tspan x="10" y="5002">228.  2017-04-21 10:08:29 +0000      198 bytes  release/directives/index.d.ts</tspan>
+<tspan x="10" y="5018">229.  2017-04-21 10:08:29 +0000      367 bytes  release/directives/index.js</tspan>
+<tspan x="10" y="5034">230.  2017-04-21 10:08:29 +0000      263 bytes  release/directives/index.js.map</tspan>
+<tspan x="10" y="5050">231.  2017-04-21 10:08:29 +0000      461 bytes  release/directives/index.metadata.json</tspan>
+<tspan x="10" y="5066">232.  2017-04-21 10:08:29 +0000      553 bytes  release/directives/long-press.directive.d.ts</tspan>
+<tspan x="10" y="5082">233.  2017-04-21 10:08:29 +0000     3229 bytes  release/directives/long-press.directive.js</tspan>
+<tspan x="10" y="5098">234.  2017-04-21 10:08:29 +0000     2902 bytes  release/directives/long-press.directive.js.map</tspan>
+<tspan x="10" y="5114">235.  2017-04-21 10:08:29 +0000     3893 bytes  release/directives/long-press.directive.metadata\</tspan>
+<tspan x="10" y="5130">.json</tspan>
+<tspan x="10" y="5146">236.  2017-04-21 10:08:29 +0000     3371 bytes  release/directives/long-press.directive.ngfactor\</tspan>
+<tspan x="10" y="5162">y.ts</tspan>
+<tspan x="10" y="5178">237.  2017-04-21 10:08:29 +0000      699 bytes  release/directives/long-press.directive.ngsummar\</tspan>
+<tspan x="10" y="5194">y.json</tspan>
+<tspan x="10" y="5210">238.  2017-04-21 10:08:29 +0000      564 bytes  release/directives/orderable.directive.d.ts</tspan>
+<tspan x="10" y="5226">239.  2017-04-21 10:08:29 +0000     3677 bytes  release/directives/orderable.directive.js</tspan>
+<tspan x="10" y="5242">240.  2017-04-21 10:08:29 +0000     3306 bytes  release/directives/orderable.directive.js.map</tspan>
+<tspan x="10" y="5258">241.  2017-04-21 10:08:29 +0000     2123 bytes  release/directives/orderable.directive.metadata.\</tspan>
+<tspan x="10" y="5274">json</tspan>
+<tspan x="10" y="5290">242.  2017-04-21 10:08:29 +0000     1428 bytes  release/directives/orderable.directive.ngfactory\</tspan>
+<tspan x="10" y="5306">.ts</tspan>
+<tspan x="10" y="5322">243.  2017-04-21 10:08:29 +0000     1031 bytes  release/directives/orderable.directive.ngsummary\</tspan>
+<tspan x="10" y="5338">.json</tspan>
+<tspan x="10" y="5354">244.  2017-04-21 10:08:29 +0000      570 bytes  release/directives/resizeable.directive.d.ts</tspan>
+<tspan x="10" y="5370">245.  2017-04-21 10:08:29 +0000     2937 bytes  release/directives/resizeable.directive.js</tspan>
+<tspan x="10" y="5386">246.  2017-04-21 10:08:29 +0000     2671 bytes  release/directives/resizeable.directive.js.map</tspan>
+<tspan x="10" y="5402">247.  2017-04-21 10:08:29 +0000     3117 bytes  release/directives/resizeable.directive.metadata\</tspan>
+<tspan x="10" y="5418">.json</tspan>
+<tspan x="10" y="5434">248.  2017-04-21 10:08:29 +0000     3249 bytes  release/directives/resizeable.directive.ngfactor\</tspan>
+<tspan x="10" y="5450">y.ts</tspan>
+<tspan x="10" y="5466">249.  2017-04-21 10:08:29 +0000      919 bytes  release/directives/resizeable.directive.ngsummar\</tspan>
+<tspan x="10" y="5482">y.json</tspan>
+<tspan x="10" y="5498">250.  2017-04-21 10:08:29 +0000      570 bytes  release/directives/visibility.directive.d.ts</tspan>
+<tspan x="10" y="5514">251.  2017-04-21 10:08:29 +0000     2268 bytes  release/directives/visibility.directive.js</tspan>
+<tspan x="10" y="5530">252.  2017-04-21 10:08:29 +0000     1672 bytes  release/directives/visibility.directive.js.map</tspan>
+<tspan x="10" y="5546">253.  2017-04-21 10:08:29 +0000     1971 bytes  release/directives/visibility.directive.metadata\</tspan>
+<tspan x="10" y="5562">.json</tspan>
+<tspan x="10" y="5578">254.  2017-04-21 10:08:29 +0000     1969 bytes  release/directives/visibility.directive.ngfactor\</tspan>
+<tspan x="10" y="5594">y.ts</tspan>
+<tspan x="10" y="5610">255.  2017-04-21 10:08:29 +0000     1049 bytes  release/directives/visibility.directive.ngsummar\</tspan>
+<tspan x="10" y="5626">y.json</tspan>
+<tspan x="10" y="5642">256.  2017-04-21 10:08:29 +0000       91 bytes  release/index.d.ts</tspan>
+<tspan x="10" y="5658">257.  2017-04-21 10:08:29 +0000   203880 bytes  release/index.js</tspan>
+<tspan x="10" y="5674">258.  2017-04-21 10:08:29 +0000      187 bytes  release/index.js.map</tspan>
+<tspan x="10" y="5690">259.  2017-04-21 10:08:29 +0000   205617 bytes  release/index.map</tspan>
+<tspan x="10" y="5706">260.  2017-04-21 10:08:29 +0000      271 bytes  release/index.metadata.json</tspan>
+<tspan x="10" y="5722">261.  2017-04-21 10:08:29 +0000    90688 bytes  release/index.min.js</tspan>
+<tspan x="10" y="5738">262.  2017-04-21 10:08:29 +0000    92456 bytes  release/index.min.js.map</tspan>
+<tspan x="10" y="5754">263.  2017-04-21 10:08:29 +0000     9761 bytes  release/material.css</tspan>
+<tspan x="10" y="5770">264.  2017-04-21 10:08:29 +0000       58 bytes  release/types/click.type.d.ts</tspan>
+<tspan x="10" y="5786">265.  2017-04-21 10:08:29 +0000      278 bytes  release/types/click.type.js</tspan>
+<tspan x="10" y="5802">266.  2017-04-21 10:08:29 +0000      260 bytes  release/types/click.type.js.map</tspan>
+<tspan x="10" y="5818">267.  2017-04-21 10:08:29 +0000      519 bytes  release/types/click.type.metadata.json</tspan>
+<tspan x="10" y="5834">268.  2017-04-21 10:08:29 +0000       70 bytes  release/types/column-mode.type.d.ts</tspan>
+<tspan x="10" y="5850">269.  2017-04-21 10:08:29 +0000      350 bytes  release/types/column-mode.type.js</tspan>
+<tspan x="10" y="5866">270.  2017-04-21 10:08:29 +0000      300 bytes  release/types/column-mode.type.js.map</tspan>
+<tspan x="10" y="5882">271.  2017-04-21 10:08:29 +0000      713 bytes  release/types/column-mode.type.metadata.json</tspan>
+<tspan x="10" y="5898">272.  2017-04-21 10:08:29 +0000      168 bytes  release/types/index.d.ts</tspan>
+<tspan x="10" y="5914">273.  2017-04-21 10:08:29 +0000      337 bytes  release/types/index.js</tspan>
+<tspan x="10" y="5930">274.  2017-04-21 10:08:29 +0000      254 bytes  release/types/index.js.map</tspan>
+<tspan x="10" y="5946">275.  2017-04-21 10:08:29 +0000      401 bytes  release/types/index.metadata.json</tspan>
+<tspan x="10" y="5962">276.  2017-04-21 10:08:29 +0000       85 bytes  release/types/selection.type.d.ts</tspan>
+<tspan x="10" y="5978">277.  2017-04-21 10:08:29 +0000      447 bytes  release/types/selection.type.js</tspan>
+<tspan x="10" y="5994">278.  2017-04-21 10:08:29 +0000      323 bytes  release/types/selection.type.js.map</tspan>
+<tspan x="10" y="6010">279.  2017-04-21 10:08:29 +0000      915 bytes  release/types/selection.type.metadata.json</tspan>
+<tspan x="10" y="6026">280.  2017-04-21 10:08:29 +0000       57 bytes  release/types/sort-direction.type.d.ts</tspan>
+<tspan x="10" y="6042">281.  2017-04-21 10:08:29 +0000      308 bytes  release/types/sort-direction.type.js</tspan>
+<tspan x="10" y="6058">282.  2017-04-21 10:08:29 +0000      278 bytes  release/types/sort-direction.type.js.map</tspan>
+<tspan x="10" y="6074">283.  2017-04-21 10:08:29 +0000      513 bytes  release/types/sort-direction.type.metadata.json</tspan>
+<tspan x="10" y="6090">284.  2017-04-21 10:08:29 +0000       56 bytes  release/types/sort.type.d.ts</tspan>
+<tspan x="10" y="6106">285.  2017-04-21 10:08:29 +0000      265 bytes  release/types/sort.type.js</tspan>
+<tspan x="10" y="6122">286.  2017-04-21 10:08:29 +0000      258 bytes  release/types/sort.type.js.map</tspan>
+<tspan x="10" y="6138">287.  2017-04-21 10:08:29 +0000      515 bytes  release/types/sort.type.metadata.json</tspan>
+<tspan x="10" y="6154">288.  2017-04-21 10:08:29 +0000      516 bytes  release/utils/camel-case.d.ts</tspan>
+<tspan x="10" y="6170">289.  2017-04-21 10:08:29 +0000     1253 bytes  release/utils/camel-case.js</tspan>
+<tspan x="10" y="6186">290.  2017-04-21 10:08:29 +0000      895 bytes  release/utils/camel-case.js.map</tspan>
+<tspan x="10" y="6202">291.  2017-04-21 10:08:29 +0000      493 bytes  release/utils/camel-case.metadata.json</tspan>
+<tspan x="10" y="6218">292.  2017-04-21 10:08:29 +0000      447 bytes  release/utils/column-helper.d.ts</tspan>
+<tspan x="10" y="6234">293.  2017-04-21 10:08:29 +0000     2119 bytes  release/utils/column-helper.js</tspan>
+<tspan x="10" y="6250">294.  2017-04-21 10:08:29 +0000     2081 bytes  release/utils/column-helper.js.map</tspan>
+<tspan x="10" y="6266">295.  2017-04-21 10:08:29 +0000      285 bytes  release/utils/column-helper.metadata.json</tspan>
+<tspan x="10" y="6282">296.  2017-04-21 10:08:29 +0000      907 bytes  release/utils/column.d.ts</tspan>
+<tspan x="10" y="6298">297.  2017-04-21 10:08:29 +0000     2497 bytes  release/utils/column.js</tspan>
+<tspan x="10" y="6314">298.  2017-04-21 10:08:29 +0000     2295 bytes  release/utils/column.js.map</tspan>
+<tspan x="10" y="6330">299.  2017-04-21 10:08:29 +0000     2165 bytes  release/utils/column.metadata.json</tspan>
+<tspan x="10" y="6346">300.  2017-04-21 10:08:29 +0000      191 bytes  release/utils/deep-getter.d.ts</tspan>
+<tspan x="10" y="6362">301.  2017-04-21 10:08:29 +0000      652 bytes  release/utils/deep-getter.js</tspan>
+<tspan x="10" y="6378">302.  2017-04-21 10:08:29 +0000      731 bytes  release/utils/deep-getter.js.map</tspan>
+<tspan x="10" y="6394">303.  2017-04-21 10:08:29 +0000      187 bytes  release/utils/deep-getter.metadata.json</tspan>
+<tspan x="10" y="6410">304.  2017-04-21 10:08:29 +0000      167 bytes  release/utils/id.d.ts</tspan>
+<tspan x="10" y="6426">305.  2017-04-21 10:08:29 +0000      293 bytes  release/utils/id.js</tspan>
+<tspan x="10" y="6442">306.  2017-04-21 10:08:29 +0000      334 bytes  release/utils/id.js.map</tspan>
+<tspan x="10" y="6458">307.  2017-04-21 10:08:29 +0000     1533 bytes  release/utils/id.metadata.json</tspan>
+<tspan x="10" y="6474">308.  2017-04-21 10:08:29 +0000      399 bytes  release/utils/index.d.ts</tspan>
+<tspan x="10" y="6490">309.  2017-04-21 10:08:29 +0000      613 bytes  release/utils/index.js</tspan>
+<tspan x="10" y="6506">310.  2017-04-21 10:08:29 +0000      497 bytes  release/utils/index.js.map</tspan>
+<tspan x="10" y="6522">311.  2017-04-21 10:08:29 +0000      755 bytes  release/utils/index.metadata.json</tspan>
+<tspan x="10" y="6538">312.  2017-04-21 10:08:29 +0000      122 bytes  release/utils/keys.d.ts</tspan>
+<tspan x="10" y="6554">313.  2017-04-21 10:08:29 +0000      365 bytes  release/utils/keys.js</tspan>
+<tspan x="10" y="6570">314.  2017-04-21 10:08:29 +0000      285 bytes  release/utils/keys.js.map</tspan>
+<tspan x="10" y="6586">315.  2017-04-21 10:08:29 +0000      243 bytes  release/utils/keys.metadata.json</tspan>
+<tspan x="10" y="6602">316.  2017-04-21 10:08:29 +0000     1307 bytes  release/utils/math.d.ts</tspan>
+<tspan x="10" y="6618">317.  2017-04-21 10:08:29 +0000     6821 bytes  release/utils/math.js</tspan>
+<tspan x="10" y="6634">318.  2017-04-21 10:08:29 +0000     4496 bytes  release/utils/math.js.map</tspan>
+<tspan x="10" y="6650">319.  2017-04-21 10:08:29 +0000      383 bytes  release/utils/math.metadata.json</tspan>
+<tspan x="10" y="6666">320.  2017-04-21 10:08:29 +0000       70 bytes  release/utils/prefixes.d.ts</tspan>
+<tspan x="10" y="6682">321.  2017-04-21 10:08:29 +0000     1057 bytes  release/utils/prefixes.js</tspan>
+<tspan x="10" y="6698">322.  2017-04-21 10:08:29 +0000     1345 bytes  release/utils/prefixes.js.map</tspan>
+<tspan x="10" y="6714">323.  2017-04-21 10:08:29 +0000      199 bytes  release/utils/prefixes.metadata.json</tspan>
+<tspan x="10" y="6730">324.  2017-04-21 10:08:29 +0000     2629 bytes  release/utils/row-height-cache.d.ts</tspan>
+<tspan x="10" y="6746">325.  2017-04-21 10:08:29 +0000     5667 bytes  release/utils/row-height-cache.js</tspan>
+<tspan x="10" y="6762">326.  2017-04-21 10:08:29 +0000     3159 bytes  release/utils/row-height-cache.js.map</tspan>
+<tspan x="10" y="6778">327.  2017-04-21 10:08:29 +0000      739 bytes  release/utils/row-height-cache.metadata.json</tspan>
+<tspan x="10" y="6794">328.  2017-04-21 10:08:29 +0000      229 bytes  release/utils/scrollbar-width.d.ts</tspan>
+<tspan x="10" y="6810">329.  2017-04-21 10:08:29 +0000      839 bytes  release/utils/scrollbar-width.js</tspan>
+<tspan x="10" y="6826">330.  2017-04-21 10:08:29 +0000      831 bytes  release/utils/scrollbar-width.js.map</tspan>
+<tspan x="10" y="6842">331.  2017-04-21 10:08:29 +0000      403 bytes  release/utils/scrollbar-width.metadata.json</tspan>
+<tspan x="10" y="6858">332.  2017-04-21 10:08:29 +0000      226 bytes  release/utils/selection.d.ts</tspan>
+<tspan x="10" y="6874">333.  2017-04-21 10:08:29 +0000     1661 bytes  release/utils/selection.js</tspan>
+<tspan x="10" y="6890">334.  2017-04-21 10:08:29 +0000     1802 bytes  release/utils/selection.js.map</tspan>
+<tspan x="10" y="6906">335.  2017-04-21 10:08:29 +0000      269 bytes  release/utils/selection.metadata.json</tspan>
+<tspan x="10" y="6922">336.  2017-04-21 10:08:29 +0000      755 bytes  release/utils/sort.d.ts</tspan>
+<tspan x="10" y="6938">337.  2017-04-21 10:08:29 +0000     3169 bytes  release/utils/sort.js</tspan>
+<tspan x="10" y="6954">338.  2017-04-21 10:08:29 +0000     3005 bytes  release/utils/sort.js.map</tspan>
+<tspan x="10" y="6970">339.  2017-04-21 10:08:29 +0000      345 bytes  release/utils/sort.metadata.json</tspan>
+<tspan x="10" y="6986">340.  2017-04-21 10:08:29 +0000      578 bytes  release/utils/throttle.d.ts</tspan>
+<tspan x="10" y="7002">341.  2017-04-21 10:08:29 +0000     1869 bytes  release/utils/throttle.js</tspan>
+<tspan x="10" y="7018">342.  2017-04-21 10:08:29 +0000     1697 bytes  release/utils/throttle.js.map</tspan>
+<tspan x="10" y="7034">343.  2017-04-21 10:08:29 +0000      517 bytes  release/utils/throttle.metadata.json</tspan>
+<tspan x="10" y="7050">344.  2017-04-21 10:08:29 +0000       78 bytes  release/utils/translate.d.ts</tspan>
+<tspan x="10" y="7066">345.  2017-04-21 10:08:29 +0000     1061 bytes  release/utils/translate.js</tspan>
+<tspan x="10" y="7082">346.  2017-04-21 10:08:29 +0000     1090 bytes  release/utils/translate.js.map</tspan>
+<tspan x="10" y="7098">347.  2017-04-21 10:08:29 +0000      179 bytes  release/utils/translate.metadata.json</tspan>
+<tspan x="10" y="7114">348.  2017-04-21 10:08:29 +0000      879 bytes  src/components/body/body-cell.component.spec.ts</tspan>
+<tspan x="10" y="7130">349.  2017-04-21 10:08:29 +0000     4125 bytes  src/components/body/body-cell.component.ts</tspan>
+<tspan x="10" y="7146">350.  2017-04-21 10:08:29 +0000      891 bytes  src/components/body/body-row-wrapper.component.s\</tspan>
+<tspan x="10" y="7162">pec.ts</tspan>
+<tspan x="10" y="7178">351.  2017-04-21 10:08:29 +0000      937 bytes  src/components/body/body-row-wrapper.component.t\</tspan>
+<tspan x="10" y="7194">s</tspan>
+<tspan x="10" y="7210">352.  2017-04-21 10:08:29 +0000      937 bytes  src/components/body/body-row.component.spec.ts</tspan>
+<tspan x="10" y="7226">353.  2017-04-21 10:08:29 +0000     3501 bytes  src/components/body/body-row.component.ts</tspan>
+<tspan x="10" y="7242">354.  2017-04-21 10:08:29 +0000     1231 bytes  src/components/body/body.component.spec.ts</tspan>
+<tspan x="10" y="7258">355.  2017-04-21 10:08:29 +0000    13758 bytes  src/components/body/body.component.ts</tspan>
+<tspan x="10" y="7274">356.  2017-04-21 10:08:29 +0000      276 bytes  src/components/body/index.ts</tspan>
+<tspan x="10" y="7290">357.  2017-04-21 10:08:29 +0000      843 bytes  src/components/body/progress-bar.component.spec.\</tspan>
+<tspan x="10" y="7306">ts</tspan>
+<tspan x="10" y="7322">358.  2017-04-21 10:08:29 +0000      365 bytes  src/components/body/progress-bar.component.ts</tspan>
+<tspan x="10" y="7338">359.  2017-04-21 10:08:29 +0000      825 bytes  src/components/body/scroller.component.spec.ts</tspan>
+<tspan x="10" y="7354">360.  2017-04-21 10:08:29 +0000     2106 bytes  src/components/body/scroller.component.ts</tspan>
+<tspan x="10" y="7370">361.  2017-04-21 10:08:29 +0000      885 bytes  src/components/body/selection.component.spec.ts</tspan>
+<tspan x="10" y="7386">362.  2017-04-21 10:08:29 +0000     4794 bytes  src/components/body/selection.component.ts</tspan>
+<tspan x="10" y="7402">363.  2017-04-21 10:08:29 +0000      216 bytes  src/components/columns/column-cell.directive.ts</tspan>
+<tspan x="10" y="7418">364.  2017-04-21 10:08:29 +0000      220 bytes  src/components/columns/column-header.directive.t\</tspan>
+<tspan x="10" y="7434">s</tspan>
+<tspan x="10" y="7450">365.  2017-04-21 10:08:29 +0000     3068 bytes  src/components/columns/column.directive.spec.ts</tspan>
+<tspan x="10" y="7466">366.  2017-04-21 10:08:29 +0000     1033 bytes  src/components/columns/column.directive.ts</tspan>
+<tspan x="10" y="7482">367.  2017-04-21 10:08:29 +0000      120 bytes  src/components/columns/index.ts</tspan>
+<tspan x="10" y="7498">368.  2017-04-21 10:08:29 +0000     1449 bytes  src/components/datatable.component.spec.ts</tspan>
+<tspan x="10" y="7514">369.  2017-04-21 10:08:29 +0000    24022 bytes  src/components/datatable.component.ts</tspan>
+<tspan x="10" y="7530">370.  2017-04-21 10:08:29 +0000     4629 bytes  src/components/datatable.scss</tspan>
+<tspan x="10" y="7546">371.  2017-04-21 10:08:29 +0000      859 bytes  src/components/footer/footer.component.spec.ts</tspan>
+<tspan x="10" y="7562">372.  2017-04-21 10:08:29 +0000     1337 bytes  src/components/footer/footer.component.ts</tspan>
+<tspan x="10" y="7578">373.  2017-04-21 10:08:29 +0000       71 bytes  src/components/footer/index.ts</tspan>
+<tspan x="10" y="7594">374.  2017-04-21 10:08:29 +0000     6433 bytes  src/components/footer/pager.component.spec.ts</tspan>
+<tspan x="10" y="7610">375.  2017-04-21 10:08:29 +0000     3250 bytes  src/components/footer/pager.component.ts</tspan>
+<tspan x="10" y="7626">376.  2017-04-21 10:08:29 +0000      831 bytes  src/components/header/header-cell.component.spec\</tspan>
+<tspan x="10" y="7642">.ts</tspan>
+<tspan x="10" y="7658">377.  2017-04-21 10:08:29 +0000     3197 bytes  src/components/header/header-cell.component.ts</tspan>
+<tspan x="10" y="7674">378.  2017-04-21 10:08:29 +0000     4742 bytes  src/components/header/header.component.ts</tspan>
+<tspan x="10" y="7690">379.  2017-04-21 10:08:29 +0000       77 bytes  src/components/header/index.ts</tspan>
+<tspan x="10" y="7706">380.  2017-04-21 10:08:29 +0000      174 bytes  src/components/index.ts</tspan>
+<tspan x="10" y="7722">381.  2017-04-21 10:08:29 +0000       89 bytes  src/components/row-detail/index.ts</tspan>
+<tspan x="10" y="7738">382.  2017-04-21 10:08:29 +0000      231 bytes  src/components/row-detail/row-detail-template.di\</tspan>
+<tspan x="10" y="7754">rective.ts</tspan>
+<tspan x="10" y="7770">383.  2017-04-21 10:08:29 +0000     2671 bytes  src/components/row-detail/row-detail.directive.s\</tspan>
+<tspan x="10" y="7786">pec.ts</tspan>
+<tspan x="10" y="7802">384.  2017-04-21 10:08:29 +0000      443 bytes  src/components/row-detail/row-detail.directive.t\</tspan>
+<tspan x="10" y="7818">s</tspan>
+<tspan x="10" y="7834">385.  2017-04-21 10:08:29 +0000     1738 bytes  src/datatable.module.ts</tspan>
+<tspan x="10" y="7850">386.  2017-04-21 10:08:29 +0000      478 bytes  src/declarations.d.ts</tspan>
+<tspan x="10" y="7866">387.  2017-04-21 10:08:29 +0000     1415 bytes  src/directives/draggable.directive.spec.ts</tspan>
+<tspan x="10" y="7882">388.  2017-04-21 10:08:29 +0000     2501 bytes  src/directives/draggable.directive.ts</tspan>
+<tspan x="10" y="7898">389.  2017-04-21 10:08:29 +0000      198 bytes  src/directives/index.ts</tspan>
+<tspan x="10" y="7914">390.  2017-04-21 10:08:29 +0000     1416 bytes  src/directives/long-press.directive.spec.ts</tspan>
+<tspan x="10" y="7930">391.  2017-04-21 10:08:29 +0000     1904 bytes  src/directives/long-press.directive.ts</tspan>
+<tspan x="10" y="7946">392.  2017-04-21 10:08:29 +0000     1680 bytes  src/directives/orderable.directive.spec.ts</tspan>
+<tspan x="10" y="7962">393.  2017-04-21 10:08:29 +0000     2619 bytes  src/directives/orderable.directive.ts</tspan>
+<tspan x="10" y="7978">394.  2017-04-21 10:08:29 +0000     1423 bytes  src/directives/resizeable.directive.spec.ts</tspan>
+<tspan x="10" y="7994">395.  2017-04-21 10:08:29 +0000     2112 bytes  src/directives/resizeable.directive.ts</tspan>
+<tspan x="10" y="8010">396.  2017-04-21 10:08:29 +0000     1504 bytes  src/directives/visibility.directive.spec.ts</tspan>
+<tspan x="10" y="8026">397.  2017-04-21 10:08:29 +0000     1376 bytes  src/directives/visibility.directive.ts</tspan>
+<tspan x="10" y="8042">398.  2017-04-21 10:08:29 +0000       90 bytes  src/index.ts</tspan>
+<tspan x="10" y="8058">399.  2017-04-21 10:08:29 +0000     7211 bytes  src/themes/material.scss</tspan>
+<tspan x="10" y="8074">400.  2017-04-21 10:08:29 +0000       83 bytes  src/types/click.type.ts</tspan>
+<tspan x="10" y="8090">401.  2017-04-21 10:08:29 +0000      108 bytes  src/types/column-mode.type.ts</tspan>
+<tspan x="10" y="8106">402.  2017-04-21 10:08:29 +0000      168 bytes  src/types/index.ts</tspan>
+<tspan x="10" y="8122">403.  2017-04-21 10:08:29 +0000      139 bytes  src/types/selection.type.ts</tspan>
+<tspan x="10" y="8138">404.  2017-04-21 10:08:29 +0000       75 bytes  src/types/sort-direction.type.ts</tspan>
+<tspan x="10" y="8154">405.  2017-04-21 10:08:29 +0000       78 bytes  src/types/sort.type.ts</tspan>
+<tspan x="10" y="8170">406.  2017-04-21 10:08:29 +0000     1424 bytes  src/types/table-column.type.ts</tspan>
+<tspan x="10" y="8186">407.  2017-04-21 10:08:29 +0000     1112 bytes  src/utils/camel-case.ts</tspan>
+<tspan x="10" y="8202">408.  2017-04-21 10:08:29 +0000     1683 bytes  src/utils/column-helper.ts</tspan>
+<tspan x="10" y="8218">409.  2017-04-21 10:08:29 +0000     1957 bytes  src/utils/column.ts</tspan>
+<tspan x="10" y="8234">410.  2017-04-21 10:08:29 +0000      517 bytes  src/utils/deep-getter.ts</tspan>
+<tspan x="10" y="8250">411.  2017-04-21 10:08:29 +0000      237 bytes  src/utils/id.ts</tspan>
+<tspan x="10" y="8266">412.  2017-04-21 10:08:29 +0000      399 bytes  src/utils/index.ts</tspan>
+<tspan x="10" y="8282">413.  2017-04-21 10:08:29 +0000      101 bytes  src/utils/keys.ts</tspan>
+<tspan x="10" y="8298">414.  2017-04-21 10:08:29 +0000     1334 bytes  src/utils/math.spec.ts</tspan>
+<tspan x="10" y="8314">415.  2017-04-21 10:08:29 +0000     5575 bytes  src/utils/math.ts</tspan>
+<tspan x="10" y="8330">416.  2017-04-21 10:08:29 +0000      889 bytes  src/utils/prefixes.ts</tspan>
+<tspan x="10" y="8346">417.  2017-04-21 10:08:29 +0000     4924 bytes  src/utils/row-height-cache.ts</tspan>
+<tspan x="10" y="8362">418.  2017-04-21 10:08:29 +0000      725 bytes  src/utils/scrollbar-width.ts</tspan>
+<tspan x="10" y="8378">419.  2017-04-21 10:08:29 +0000     1398 bytes  src/utils/selection.ts</tspan>
+<tspan x="10" y="8394">420.  2017-04-21 10:08:29 +0000     2630 bytes  src/utils/sort.ts</tspan>
+<tspan x="10" y="8410">421.  2017-04-21 10:08:29 +0000     1605 bytes  src/utils/throttle.ts</tspan>
+<tspan x="10" y="8426">422.  2017-04-21 10:08:29 +0000      894 bytes  src/utils/translate.ts</tspan>
+<tspan x="10" y="8442">423.  2017-04-21 10:08:29 +0000      544 bytes  src/utils/visibility-observer.ts</tspan>
+<tspan x="10" y="8458">424.  2017-04-21 10:08:29 +0000     1041 bytes  tsconfig-aot.json</tspan>
+<tspan x="10" y="8474">425.  2017-04-21 10:08:29 +0000      935 bytes  tsconfig.json</tspan>
+<tspan x="10" y="8490">426.  2017-04-21 10:08:29 +0000     1057 bytes  tslint.json</tspan>
+<tspan x="10" y="8506">427.  2017-04-21 10:08:29 +0000      499 bytes  webpack.config.js</tspan>
+</text>
+</svg>
